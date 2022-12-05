@@ -1,7 +1,7 @@
 # bigDataHF
-## Big Data elemzési módszerek
+# Big Data elemzési módszerek
 
-## Reptéri késések elemzése
+# Reptéri késések elemzése
 
 Bamboolib
 pandas-profiling
